@@ -1,6 +1,7 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="putinrock1" />
+    <option name="LOGIN" value="SuryaRaut" />
     <option name="AUTH_TYPE" value="BASIC" />
+    <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
