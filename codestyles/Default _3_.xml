@@ -1,0 +1,11 @@
+<code_scheme name="Default (3)">
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_BEFORE_TYPE_PARAMETER_LIST" value="true" />
+  </codeStyleSettings>
+</code_scheme>
